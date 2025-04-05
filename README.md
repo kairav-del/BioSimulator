@@ -5,6 +5,9 @@
 This simulation provides a visual and interactive way to understand basic population dynamics and predator-prey interactions.
 
 ---
+## Demo
+[![Demo](https://github.com/kairav-del/BioSimulator/blob/main/Demo.mp4)]([https://youtu.be/vt5fpE0bzSY](https://github.com/kairav-del/BioSimulator/blob/main/Demo.mp4))
+
 
 ## 🌱 Features
 
